@@ -188,6 +188,7 @@ app.post("/submit",function(req,res){
 
 
 
-app.listen("3000",function(){
+app.listen("https://sushant1999.github.io/secretsProject/"
+||"3000",function(){
   console.log("Server at 3000 aai aai aaaa");
 });
